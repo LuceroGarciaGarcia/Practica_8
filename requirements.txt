@@ -1,0 +1,3 @@
+
+# Ruff es una herramienta de análisis de código estático para Python
+ruff==0.8.1
